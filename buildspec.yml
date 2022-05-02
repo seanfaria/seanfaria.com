@@ -8,6 +8,6 @@ artifacts:
   files:
     - index.html
     - error.html
-    - SFariaCertResume2018.pdf
+    - *.pdf
     - style.css
     - img/*
